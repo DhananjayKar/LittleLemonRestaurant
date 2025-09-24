@@ -1,0 +1,408 @@
+{
+  "Dessert": [
+    {
+      "id": 1,
+      "name": "Chocolate Lava Cake",
+      "description": "Rich chocolate cake with a molten center.",
+      "price": "₹250",
+      "image": "/images/dishes/desserts (2).jpg"
+    },
+    {
+      "id": 2,
+      "name": "Strawberry Cheesecake",
+      "description": "Creamy cheesecake topped with fresh strawberries.",
+      "price": "₹300",
+      "image": "/images/dishes/desserts (6).jpg"
+    },
+    {
+      "id": 3,
+      "name": "Brownie Sundae",
+      "description": "Chocolate brownie with vanilla ice cream.",
+      "price": "₹280",
+      "image": "/images/dishes/desserts (4).jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mango Mousse",
+      "description": "Light and creamy mango dessert.",
+      "price": "₹220",
+      "image": "/images/dishes/desserts (3).jpg"
+    },
+    {
+      "id": 5,
+      "name": "Tiramisu",
+      "description": "Classic Italian coffee-flavored dessert.",
+      "price": "₹350",
+      "image": "/images/dishes/desserts (1).jpg"
+    },
+    {
+      "id": 6,
+      "name": "Panna Cotta",
+      "description": "Creamy Italian dessert with berry sauce.",
+      "price": "₹280",
+      "image": "/images/dishes/desserts (8).jpg"
+    },
+    {
+      "id": 7,
+      "name": "Caramel Flan",
+      "description": "Smooth caramel custard dessert.",
+      "price": "₹240",
+      "image": "/images/dishes/desserts (5).jpg"
+    },
+    {
+      "id": 8,
+      "name": "Apple Pie",
+      "description": "Classic apple pie with cinnamon.",
+      "price": "₹260",
+      "image": "/images/dishes/desserts (7).jpg"
+    }
+  ],
+  "Pizza": [
+    {
+      "id": 9,
+      "name": "Veggie Delight Pizza",
+      "description": "Loaded with bell peppers, onions, and olives.",
+      "price": "₹400",
+      "image": "/images/dishes/pizza (2).jpg"
+    },
+    {
+      "id": 10,
+      "name": "Pepperoni Pizza",
+      "description": "Classic cheesy pizza with pepperoni slices.",
+      "price": "₹450",
+      "image": "/images/dishes/pizza (6).jpg"
+    },
+    {
+      "id": 11,
+      "name": "Margherita Pizza",
+      "description": "Simple pizza with tomato, mozzarella & basil.",
+      "price": "₹380",
+      "image": "/images/dishes/pizza (7).jpg"
+    },
+    {
+      "id": 12,
+      "name": "BBQ Chicken Pizza",
+      "description": "Grilled chicken with BBQ sauce and cheese.",
+      "price": "₹480",
+      "image": "/images/dishes/pizza (5).jpg"
+    },
+    {
+      "id": 13,
+      "name": "Four Cheese Pizza",
+      "description": "Cheesy heaven with mozzarella, cheddar, feta & parmesan.",
+      "price": "₹500",
+      "image": "/images/dishes/pizza (3).jpg"
+    },
+    {
+      "id": 14,
+      "name": "Hawaiian Pizza",
+      "description": "Ham and pineapple topping.",
+      "price": "₹460",
+      "image": "/images/dishes/pizza (1).jpg"
+    },
+    {
+      "id": 15,
+      "name": "Mexican Pizza",
+      "description": "Topped with jalapenos, beans & corn.",
+      "price": "₹430",
+      "image": "/images/dishes/pizza (4).jpg"
+    },
+    {
+      "id": 16,
+      "name": "Cheese Burst Pizza",
+      "description": "Extra cheesy pizza with stuffed crust.",
+      "price": "₹520",
+      "image": "/images/dishes/pizza (8).jpg"
+    }
+  ],
+  "South Indian": [
+    {
+      "id": 17,
+      "name": "Masala Dosa",
+      "description": "Crispy dosa filled with spiced potato filling.",
+      "price": "₹180",
+      "image": "/images/dishes/south (2).jpg"
+    },
+    {
+      "id": 18,
+      "name": "Idli & Sambar",
+      "description": "Steamed idlis served with hot sambar & chutney.",
+      "price": "₹150",
+      "image": "/images/dishes/south (6).jpg"
+    },
+    {
+      "id": 19,
+      "name": "Vada",
+      "description": "Crispy lentil fritters served with chutney.",
+      "price": "₹120",
+      "image": "/images/dishes/south (7).jpg"
+    },
+    {
+      "id": 20,
+      "name": "Pongal",
+      "description": "Soft rice dish with black pepper & ghee.",
+      "price": "₹140",
+      "image": "/images/dishes/south (1).jpg"
+    },
+    {
+      "id": 21,
+      "name": "Upma",
+      "description": "Savory semolina porridge with veggies.",
+      "price": "₹130",
+      "image": "/images/dishes/south (8).jpg"
+    },
+    {
+      "id": 22,
+      "name": "Rava Dosa",
+      "description": "Thin crispy semolina dosa.",
+      "price": "₹150",
+      "image": "/images/dishes/south (5).jpg"
+    },
+    {
+      "id": 23,
+      "name": "Medu Vada",
+      "description": "Soft lentil donuts served with sambar.",
+      "price": "₹140",
+      "image": "/images/dishes/south (3).jpg"
+    },
+    {
+      "id": 24,
+      "name": "Dahi Vada",
+      "description": "Lentil fritters in yogurt & chutney.",
+      "price": "₹160",
+      "image": "/images/dishes/south (4).jpg"
+    }
+  ],
+  "Chinese": [
+    {
+      "id": 25,
+      "name": "Hakka Noodles",
+      "description": "Stir-fried noodles with veggies & soy sauce.",
+      "price": "₹220",
+      "image": "/images/dishes/chinese (5).jpg"
+    },
+    {
+      "id": 26,
+      "name": "Chilli Chicken",
+      "description": "Crispy chicken tossed in spicy Chinese sauce.",
+      "price": "₹280",
+      "image": "/images/dishes/chinese (7).jpg"
+    },
+    {
+      "id": 27,
+      "name": "Veg Manchurian",
+      "description": "Crispy veg balls in Manchurian sauce.",
+      "price": "₹250",
+      "image": "/images/dishes/chinese (2).jpg"
+    },
+    {
+      "id": 28,
+      "name": "Spring Rolls",
+      "description": "Crispy rolls filled with veggies.",
+      "price": "₹200",
+      "image": "/images/dishes/chinese (3).jpg"
+    },
+    {
+      "id": 29,
+      "name": "Fried Rice",
+      "description": "Egg fried rice with vegetables.",
+      "price": "₹220",
+      "image": "/images/dishes/chinese (1).jpg"
+    },
+    {
+      "id": 30,
+      "name": "Schezwan Noodles",
+      "description": "Spicy noodles with sauce & veggies.",
+      "price": "₹240",
+      "image": "/images/dishes/chinese (8).jpg"
+    },
+    {
+      "id": 31,
+      "name": "Chicken Manchurian",
+      "description": "Chicken in spicy Manchurian sauce.",
+      "price": "₹280",
+      "image": "/images/dishes/chinese (4).jpg"
+    },
+    {
+      "id": 32,
+      "name": "Veg Noodles",
+      "description": "Stir-fried noodles with mixed vegetables.",
+      "price": "₹220",
+      "image": "/images/dishes/chinese (6).jpg"
+    }
+  ],
+  "Drinks": [
+    {
+      "id": 33,
+      "name": "Fresh Lime Soda",
+      "description": "Refreshing soda with lime and mint.",
+      "price": "₹120",
+      "image": "/images/dishes/drinks (1).jpg"
+    },
+    {
+      "id": 34,
+      "name": "Cold Coffee",
+      "description": "Chilled coffee with whipped cream topping.",
+      "price": "₹150",
+      "image": "/images/dishes/drinks (3).jpg"
+    },
+    {
+      "id": 35,
+      "name": "Mango Shake",
+      "description": "Creamy mango milkshake.",
+      "price": "₹180",
+      "image": "/images/dishes/drinks (6).jpg"
+    },
+    {
+      "id": 36,
+      "name": "Strawberry Smoothie",
+      "description": "Strawberry blended smoothie.",
+      "price": "₹160",
+      "image": "/images/dishes/drinks (2).jpg"
+    },
+    {
+      "id": 37,
+      "name": "Cold Chocolate",
+      "description": "Iced chocolate drink with cream.",
+      "price": "₹150",
+      "image": "/images/dishes/drinks (8).jpg"
+    },
+    {
+      "id": 38,
+      "name": "Iced Tea",
+      "description": "Refreshing iced tea with lemon.",
+      "price": "₹120",
+      "image": "/images/dishes/drinks (5).jpg"
+    },
+    {
+      "id": 39,
+      "name": "Lemonade",
+      "description": "Classic lemonade with fresh lemons.",
+      "price": "₹100",
+      "image": "/images/dishes/drinks (4).jpg"
+    },
+    {
+      "id": 40,
+      "name": "Coffee Frappe",
+      "description": "Blended coffee frappe with ice cream.",
+      "price": "₹180",
+      "image": "/images/dishes/drinks (7).jpg"
+    }
+  ],
+  "IceCream": [
+    {
+      "id": 101,
+      "name": "Classic Vanilla",
+      "description": "Smooth and creamy vanilla ice-cream made from real cream.",
+      "price": "₹120",
+      "image": "/images/dishes/icecream (1).jpg"
+    },
+    {
+      "id": 102,
+      "name": "Belgian Chocolate",
+      "description": "Rich Belgian chocolate ice-cream for chocoholics.",
+      "price": "₹150",
+      "image": "/images/dishes/icecream (8).jpg"
+    },
+    {
+      "id": 103,
+      "name": "Strawberry Swirl",
+      "description": "Fresh strawberry ice-cream with fruity swirls.",
+      "price": "₹130",
+      "image": "/images/dishes/icecream (2).jpg"
+    },
+    {
+      "id": 104,
+      "name": "Mango Mania",
+      "description": "Tangy and sweet mango ice-cream made from ripe Alphonso mangoes.",
+      "price": "₹140",
+      "image": "/images/dishes/icecream (3).jpg"
+    },
+    {
+      "id": 105,
+      "name": "Mint Chocolate Chip",
+      "description": "Refreshing mint ice-cream with chocolate chips.",
+      "price": "₹150",
+      "image": "/images/dishes/icecream (7).jpg"
+    },
+    {
+      "id": 106,
+      "name": "Cookies & Cream",
+      "description": "Creamy ice-cream loaded with chocolate cookie chunks.",
+      "price": "₹160",
+      "image": "/images/dishes/icecream (6).jpg"
+    },
+    {
+      "id": 107,
+      "name": "Pistachio Delight",
+      "description": "Nutty and smooth pistachio ice-cream with a hint of roasted nuts.",
+      "price": "₹170",
+      "image": "/images/dishes/icecream (5).jpg"
+    },
+    {
+      "id": 108,
+      "name": "Coffee Crunch",
+      "description": "Rich coffee ice-cream with chocolate crunch bits.",
+      "price": "₹150",
+      "image": "/images/dishes/icecream (4).jpg"
+    }
+  ],
+  "Salads": [
+  {
+    "id": 201,
+    "name": "Greek Salad",
+    "description": "Crisp cucumbers, cherry tomatoes, red onions, Kalamata olives, and feta cheese tossed with olive oil and oregano.",
+    "price": "₹220",
+    "image": "/images/dishes/salad (1).jpeg"
+  },
+  {
+    "id": 202,
+    "name": "Caesar Salad",
+    "description": "Fresh romaine lettuce, parmesan cheese, and crunchy croutons tossed in a creamy Caesar dressing.",
+    "price": "₹250",
+    "image": "/images/dishes/salad (3).jpeg"
+  },
+  {
+    "id": 203,
+    "name": "Mediterranean Quinoa Salad",
+    "description": "Protein-packed quinoa with cucumbers, tomatoes, chickpeas, olives, and a lemon herb vinaigrette.",
+    "price": "₹280",
+    "image": "/images/dishes/salad (7).jpeg"
+  },
+  {
+    "id": 204,
+    "name": "Caprese Salad",
+    "description": "Sliced fresh mozzarella, ripe tomatoes, and basil leaves drizzled with balsamic glaze and olive oil.",
+    "price": "₹240",
+    "image": "/images/dishes/salad (6).jpeg"
+  },
+  {
+    "id": 205,
+    "name": "Avocado & Spinach Salad",
+    "description": "Baby spinach, ripe avocado, cherry tomatoes, red onion, and pumpkin seeds with a light lime dressing.",
+    "price": "₹260",
+    "image": "/images/dishes/salad (5).jpeg"
+  },
+  {
+    "id": 206,
+    "name": "Asian Sesame Chicken Salad",
+    "description": "Grilled chicken, mixed greens, shredded carrots, cabbage, and sesame seeds with a ginger-soy dressing.",
+    "price": "₹300",
+    "image": "/images/dishes/salad (8).jpeg"
+  },
+  {
+    "id": 207,
+    "name": "Kale & Apple Salad",
+    "description": "Chopped kale, fresh apples, cranberries, walnuts, and goat cheese tossed with honey-mustard vinaigrette.",
+    "price": "₹270",
+    "image": "/images/dishes/salad (4).jpeg"
+  },
+  {
+    "id": 208,
+    "name": "Southwest Taco Salad",
+    "description": "Romaine lettuce, black beans, corn, avocado, tortilla strips, and cheddar cheese with chipotle ranch.",
+    "price": "₹310",
+    "image": "/images/dishes/salad (2).jpeg"
+  }
+  ]
+}
